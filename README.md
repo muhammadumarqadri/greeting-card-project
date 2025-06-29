@@ -4,8 +4,8 @@ This is a simple and elegant **Birthday Greeting Card** built using **HTML** and
 
 ## 🖼️ Demo
 
-![Greeting Card Screenshot](screenshot.png)  
-*(Add a screenshot of your project here)*
+
+![Greeting Card Screenshot](https://github.com/muhammadumarqadri/greeting-card-project/blob/main/Screenshot.png?raw=true)
 
 ## 📂 Project Structure
 
@@ -40,9 +40,6 @@ Add more sections like RSVP, gift ideas, or custom messages.
 HTML5
 
 CSS3 (Flexbox, transitions, pseudo-elements, and responsive styling)
-
-📸 Screenshots
-![Greeting Card Screenshot](https://github.com/muhammadumarqadri/greeting-card-project/blob/main/screenshot.png?raw=true)
 
 🧑‍💻 Author
 Muhammad Umar Qadri
